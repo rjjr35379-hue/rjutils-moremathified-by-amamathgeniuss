@@ -1,2 +1,1 @@
-Credits
-MathUtils methods and Customutils improved by "imamathgeniusssssLi" 
+added more utils to mathutils and more utils to customsutil for ease 
