@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "utils",
+	"version": "${version}",
+	"name": "RjUtils",
+	"description": "backports 1.21+ features back to 1.20.1 java 17 support by timmychips",
+	"authors": [
+		"rj"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/utils/icon.png",
+	"environment": "*",
+	"entrypoints": {
+
+	},
+  "depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
